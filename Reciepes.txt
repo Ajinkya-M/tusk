@@ -4,8 +4,14 @@ Welcome to reciepes file.
 
 1. r1
 2. r2
-3. r3
+3. Beans
+4. Pizza
+5. r3
 
 Thank you :)
 
+ 
+Done my changes.
+ 
 Final version.
+ 
